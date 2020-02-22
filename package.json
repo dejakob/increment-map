@@ -1,0 +1,12 @@
+{
+  "name": "increment-map",
+  "version": "1.0.0",
+  "description": "Create a map with incrementing values",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "dejakob",
+  "license": "MIT"
+}
